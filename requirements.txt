@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+pypdf2
+openai
+pandas
+tabulate
+huggingface_hub
+transformers
+TensorFlow
+pillow
